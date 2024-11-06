@@ -13,7 +13,7 @@
     --popover: 0 0% 4%;
     --popover-foreground: 0 0% 100%;
 
-    --primary: 252 59% 48%;
+    --primary: 310 80% 30%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 0 0% 9%;
@@ -53,10 +53,10 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #171717;
+  background: #130012;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #5033c3;
+  background: #420041;
   border-radius: 999px;
 }
